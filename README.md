@@ -14,4 +14,3 @@ Dilengkapi dengan backsound, sound effect lokal khas, dan tantangan skor tinggi.
 
 👨‍💻 Credits
 Game ini dibuat dengan cinta oleh Fadli Bilal.
-"""
